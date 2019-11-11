@@ -7,27 +7,27 @@
 	
 	*Before*
 	
-	![Setup](./Images/1.2.1.jpg)
+![Setup](./Images/1.2.1.jpg)
 	
 	*After*
 	
-	![Setup](./Images/1.2.2.jpg)
+![Setup](./Images/1.2.2.jpg)
 
 	- With a microcontroller
 	
 	*Before*
 	
-	![Setup](./Images/1.1.1.jpg)
+![Setup](./Images/1.1.1.jpg)
 	
 	*After*
 	
-	![Setup](./Images/1.1.2.jpg)
+![Setup](./Images/1.1.2.jpg)
 
 2- 4 digit 7Segment Displays  
 
 	- Lesson 15 from the Arduino Starter Kit
 	
-	![Setup](./Images/2.jpg)
+![Setup](./Images/2.jpg)
 
 3- Max7219 For LED Matrix
 
